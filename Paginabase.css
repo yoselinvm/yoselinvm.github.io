@@ -1,0 +1,33 @@
+  body{
+  background-color:white;
+     }
+ h1{
+	 color:black;
+	 text-align: center;
+   }
+   div{
+	   width: 200px;
+	   height: 150px;
+	   padding: 80px;
+	   text-align: center;
+	   border-radius: 50px;
+   }
+   #cajaNegra{
+	   background-color: grey;
+	   float: right;
+	   
+	   }
+	#cajaAzul{
+		background-color: blue;
+		}
+	#cajaVerde{ 
+	    background-color: green;
+		float: right;
+		}
+	#cajaRoja{
+		background-color: red;
+		}
+	#cajaAmarilla{
+		 background-color: yellow;
+		 float: right;
+		 }
